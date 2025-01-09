@@ -5,7 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidad</title>
 </head>
 <body>
     <h1>Política de Privacidad</h1>
@@ -15,7 +14,7 @@
     <h2>Uso de la información</h2>
     <p>Utilizamos esta información para mejorar la experiencia del usuario.</p>
     <h2>Contacto</h2>
-    <p>Si tienes alguna pregunta, contáctanos en <a href="mailto:tuemail@example.com">tuemail@example.com</a>.</p>
+    <p>Si tienes alguna pregunta, contáctanos en <a href="anthonypulla126@gmail.com">anthonypulla126@gmail.com</a>.</p>
     <p>Última actualización: 09/01/2025</p>
 </body>
 </html>
